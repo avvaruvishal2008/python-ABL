@@ -42,7 +42,7 @@ Write a Python program to enter marks for three subjects, calculate the total an
 INPUT mark1, mark2, mark3
 total ← mark1 + mark2 + mark3
 average ← total / 3
-IF mark1 ≥ 35 AND mark2 ≥ 35 AND mark3 ≥ 35 THEN
+IF mark1 >= 35 AND mark2 >= 35 AND mark3 >= 35 THEN
     result ← "Pass"
 ELSE
     result ← "Fail"
