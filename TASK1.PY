@@ -69,7 +69,7 @@ print("Average marks:", average)
 print("Result:", result)
 
 
-#8. Output S
+#8. Output 
 '''Sample console output:
 Enter marks in subject 1: 70
 Enter marks in subject 2: 80
