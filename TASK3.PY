@@ -63,7 +63,7 @@ else:
     print("Not Eligible")
 
 
-#8. Output Screenshot
+#8. Output 
 '''Sample console output:
 Enter total classes: 100
 Enter classes attended: 80
