@@ -12,16 +12,16 @@
 
 #3. Assumptions
 '''	Units are zero or more.
-	The first 100 units cost ₹2 per unit.
-	Every unit above 100 costs ₹3 per unit.
+	The first 100 units cost Rupees2 per unit.
+	Every unit above 100 costs Rupees3 per unit.
 	No fixed charge or tax is included.'''
 
 
 #4. Algorithm
 '''1. Start the program.
    2. Read units consumed.
-   3. If units are at most 100, bill = units × 2.
-   4. Otherwise, bill = 100 × 2 + (units − 100) × 3.
+   3. If units are at most 100, bill = units * 2.
+   4. Otherwise, bill = 100 * 2 + (units − 100) * 3.
    5. Display the bill amount.
    6. Stop.'''
 
@@ -39,10 +39,10 @@
 #6. Pseudocode
 '''START
 INPUT units
-IF units ≤ 100 THEN
-    bill ← units × 2
+IF units <= 100 THEN
+    bill <- units × 2
 ELSE
-    bill ← 100 × 2 + (units − 100) × 3
+    bill <- 100 * 2 + (units − 100) * 3
 END IF
 OUTPUT bill
 STOP'''
