@@ -60,7 +60,7 @@ else:
 print("Electricity bill: Rs.", bill)
 
 
-#8. Output Screenshot
+#8. Output 
 '''Sample console output:
 Enter units consumed: 150
 Electricity bill: Rs. 350'''
