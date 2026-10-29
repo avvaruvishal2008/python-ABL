@@ -71,7 +71,7 @@ print("Discount: Rs.", discount)
 print("Final amount: Rs.", final_amount)
 
 
-#8. Output Screenshot
+#8. Output 
 '''Sample console output:
 Enter item price: 600
 Enter quantity: 2
